@@ -717,7 +717,7 @@ header {
 }
 
 .feat-figtitle,
-.preview-title {
+.preview-title, .mlf-customers-label {
   color: var(--color-brand);
   font-family: monospace;
   font-size: 0.75rem;
